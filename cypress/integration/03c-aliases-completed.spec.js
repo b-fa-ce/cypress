@@ -1,4 +1,4 @@
-/// <reference types="cypress" />
+ö/// <reference types="cypress" />
 
 describe('Aliases', () => {
   beforeEach(() => {
